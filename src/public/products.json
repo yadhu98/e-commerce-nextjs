@@ -1,0 +1,202 @@
+[
+    {
+      "id": 1,
+      "category": "Shell Lubricants",
+      "subcategory": "Aeroshell",
+      "name": "Aeroshell Fluid 41",
+      "description": "Aeroshell Fluid 41 for aircraft hydraulic systems",
+      "price": 5581.85,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxcY4JT2jwTlxssCSBhV4Ju-zfRGbwOJ3dA&s",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "category": "Shell Lubricants",
+      "subcategory": "Helix",
+      "name": "Helix Ultra 5W-30",
+      "description": "High-performance synthetic oil for engines",
+      "price": 2399,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5q3V0ycfIRJoDghcZo4qhS87VSZ5z_E62fg&s",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "category": "Kluber Products",
+      "subcategory": "Kluberfluid",
+      "name": "Kluberfluid C-F 3 Ultra",
+      "description": "Lubricant for high-load applications",
+      "price": 3215.50,
+      "image": "https://cdn11.bigcommerce.com/s-03842/images/stencil/1280x1280/products/100807/405083/PR54973BI59671_kluberfluid_c_f3_ultra_180kg_Kluberfluid_C_F_3_Ultra_180kg_SZ4__74261.1730481387.jpg?c=2?imbypass=on",
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "category": "Kluber Products",
+      "subcategory": "Kluberplex",
+      "name": "Kluberplex BEM 41-141",
+      "description": "Grease for rolling bearings in wind turbines",
+      "price": 2870.25,
+      "image": "https://cdn11.bigcommerce.com/s-03842/images/stencil/1280x1280/products/100808/405084/PR54973BI59672_kluberplex_bem_41_141_25kg_Kluberplex_BEM_41_141_25kg_SZ4__14902.1730481387.jpg?c=2?imbypass=on",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "category": "Loctite Products",
+      "subcategory": "Adhesives",
+      "name": "Loctite 243",
+      "description": "Threadlocker for medium strength applications",
+      "price": 1250.99,
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71hTRSSh+TL._AC_UL495_SR435,495_.jpg",
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "category": "Loctite Products",
+      "subcategory": "Sealants",
+      "name": "Loctite 567",
+      "description": "Thread sealant for high-temperature applications",
+      "price": 1345.75,
+      "image": "https://m.media-amazon.com/images/I/51EfeAsY6mL.jpg",
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "category": "Dow Corning Products",
+      "subcategory": "Silicones",
+      "name": "Dow Corning 732",
+      "description": "Multi-purpose silicone sealant",
+      "price": 890.50,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/11/ZH/NL/UZ/4759798/dow-corning-732.jpg",
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "category": "Dow Corning Products",
+      "subcategory": "Lubricants",
+      "name": "Molykote 111",
+      "description": "Silicone compound for sealing and lubricating",
+      "price": 1025.30,
+      "image": "https://5.imimg.com/data5/RH/XN/WX/SELLER-54242723/molykote-111-compound.jpg",
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "category": "SKF Bearings",
+      "subcategory": "Ball Bearings",
+      "name": "SKF 6205-2RSH",
+      "description": "Deep groove ball bearing with seals",
+      "price": 450.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEa0c-i-y1muCiRaMxNcW4iVHbOjHh8xoJAg&s",
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "category": "SKF Bearings",
+      "subcategory": "Roller Bearings",
+      "name": "SKF 22210 E",
+      "description": "Spherical roller bearing for heavy loads",
+      "price": 3250.00,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/LG/WT/NP/8287804/original-skf-self-aligning-roller-bearing-22210-e-skf-spherical-roller-bearing.jpeg",
+      "inStock": true
+    },
+    {
+      "id": 11,
+      "category": "Power Transmission",
+      "subcategory": "Belts",
+      "name": "Gates V-Belt XPZ 950",
+      "description": "High-performance V-belt for industrial applications",
+      "price": 320.00,
+      "image": "https://www.sammaparts.com/68535-large_default/v-belt-xpz-950-mechanical-transmissions-97x8x950-toothed-narrow.jpg",
+      "inStock": true
+    },
+    {
+      "id": 12,
+      "category": "Power Transmission",
+      "subcategory": "Chains",
+      "name": "Renold SD 08B-1",
+      "description": "Roller chain for heavy-duty applications",
+      "price": 580.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-2dT9GoAwxIFRW3FjI0aG1FhSuIhSr3crw&s",
+      "inStock": true
+    },
+    {
+      "id": 13,
+      "category": "Maintenance Tools",
+      "subcategory": "Pullers",
+      "name": "SKF TMMA 75H",
+      "description": "Hydraulic puller for bearing removal",
+      "price": 2150.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IEZlurF7RgYzdpPQAq53mc-PLeSgLiYbAg&s",
+      "inStock": true
+    },
+    {
+      "id": 14,
+      "category": "Maintenance Tools",
+      "subcategory": "Grease Guns",
+      "name": "Alemite 500-E Grease Gun",
+      "description": "Heavy-duty grease gun for industrial use",
+      "price": 1200.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJhix_kKmZjbEtGW_fxhs6liFQ_PN7lzZn6g&s",
+      "inStock": true
+    },
+    {
+      "id": 15,
+      "category": "Oil Seals",
+      "subcategory": "Radial Shaft Seals",
+      "name": "CR Seals 30x52x7 HMS5 RG",
+      "description": "Radial shaft seal for machinery",
+      "price": 45.50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCP9LhIGV2kwDC-uqnN1Zm43T2rzprOooaow&s",
+      "inStock": true
+    },
+    {
+      "id": 16,
+      "category": "Oil Seals",
+      "subcategory": "O-Rings",
+      "name": "NBR O-Ring 50x3",
+      "description": "Nitrile rubber O-ring for sealing applications",
+      "price": 12.30,
+      "image": "https://m.media-amazon.com/images/I/418syXN5F3L._AC_UF1000,1000_QL80_.jpg",
+      "inStock": true
+    },
+    {
+      "id": 17,
+      "category": "Shell Lubricants",
+      "subcategory": "Spirax",
+      "name": "Spirax S4 TXM",
+      "description": "Premium hydraulic and transmission fluid",
+      "price": 1999.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAS0BvNJr5EzDy4ff3GAhk_Rbjh5dL8j3yxw&s",
+      "inStock": false
+    },
+    {
+      "id": 18,
+      "category": "Kluber Products",
+      "subcategory": "Isoflex",
+      "name": "Isoflex NBU 15",
+      "description": "High-speed grease for spindle bearings",
+      "price": 3500.00,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/RR/GU/OB/1982534/gauge-class-clock-brass.jpg",
+      "inStock": true
+    },
+    {
+      "id": 19,
+      "category": "SKF Bearings",
+      "subcategory": "Spherical Plains",
+      "name": "SKF GE 20 ES",
+      "description": "Spherical plain bearing for heavy loads",
+      "price": 670.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-Ey4gsKX4FZI44IdhHqX86HhNHi-CWfjeQ&s",
+      "inStock": true
+    },
+    {
+      "id": 20,
+      "category": "Loctite Products",
+      "subcategory": "Retaining Compounds",
+      "name": "Loctite 648",
+      "description": "High-strength retaining compound for cylindrical assemblies",
+      "price": 1450.00,
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51FDdT90m6L._AC_UL495_SR435,495_.jpg",
+      "inStock": true
+    }
+]

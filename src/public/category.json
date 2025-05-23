@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Shell Lubricants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0RSCo4tQJIrst3LkMKwDCaPdKUgX1B3-cg&s",
+      "path": "/products?category=shell lubricants"
+    },
+    {
+      "name": "Kluber Products",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVp68f94KvUP0w2UeZFqiyPwhvP9U1JRTEmA&s",
+      "path": "/products?category=kluber products"
+    },
+    {
+      "name": "Dow Corning Products",
+      "image": "https://image.mlive.com/home/mlive-media/pgmain/img/saginawnews/photo/2015/12/11/-e3728017b57cd918.JPG",
+      "path": "/products?category=dow corning products"
+    },
+    {
+      "name": "Loctite Products",
+      "image": "https://tryloctite-images-s3.s3.ap-south-1.amazonaws.com/images/webinar-thank-img.png",
+      "path": "/products?category=loctite products"
+    },
+    {
+      "name": "SKF Bearings",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/2/YP/PH/QK/1502352/skf-ips-500x500.jpeg",
+      "path": "/products?category=skf bearings"
+    },
+    {
+      "name": "Power Transmission",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBm9NLtg_EbXAHibrSKYd_CybqMqDFPaMMbg&s",
+      "path": "/products?category=power transmission"
+    },
+    {
+      "name": "Maintenance Tools",
+      "image": "https://3.imimg.com/data3/NQ/RR/MY-989573/heavy-duty-industrial-maintenance-tools-500x500.jpg",
+      "path": "/products?category=maintenance tools"
+    },
+    {
+      "name": "Oil Seals",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGk3rgRPULsDFqnI8P816ifZlZIeOl6GhNdw&s",
+      "path": "/products?category=oil seals"
+    }
+]
