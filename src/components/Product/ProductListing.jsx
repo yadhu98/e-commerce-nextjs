@@ -29,21 +29,13 @@ export default function ProductListing({ products, category }) {
           <ul className="text-sm sm:text-base">
             {categories.map((cat) => (
               <li key={cat} className="mb-1">
-                <a
-                  href={`/products?category=${cat.toLowerCase()}`}
-                  className={
-                    category === cat.toLowerCase()
-                      ? 'text-primary font-semibold hover:text-primary'
-                      : 'hover:text-primary'
-                  }
-                >
+                <a href={`/products?category=${cat.toLowerCase()}`} className={category === cat.toLowerCase() ? 'text-primary font-semibold hover:text-primary' : 'hover:text-primary'}>
                   {cat}
                 </a>
               </li>
             ))}
           </ul>
         </div>
-
         <div className="w-full md:w-3/4">
           <h1 className="text-2xl font-bold mb-4 sm:text-3xl lg:text-4xl">
             {pageTitle}
