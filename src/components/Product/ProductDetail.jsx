@@ -8,7 +8,6 @@ export default function ProductDetail({ product }) {
   if (!product) return <div className="text-center text-gray-600">Loading...</div>;
   const cartItem = cartItems.find((item) => item.id === product.id);
   const quantity = cartItem ? cartItem.quantity : 0;
-
   return (
     <div className="bg-white rounded-xl shadow-lg flex flex-col lg:flex-row gap-8 p-4 sm:p-8 lg:p-12 max-w-full lg:max-w-6xl mx-auto my-8 min-h-[450px]">
       <div className="flex-1 flex items-center justify-center bg-gray-50 rounded-lg p-4 sm:p-8 min-w-[220px] max-w-[400px] mx-auto lg:mx-0 ">
